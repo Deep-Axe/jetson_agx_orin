@@ -28,3 +28,16 @@ This archive contains comprehensive hardware design documentation and files for 
 - **Layout**: Allegro layout files and ASCII extracts
 - **PCB**: Assembly drawings and stackup information
 - **Database**: ValorODB database
+
+
+## Currently knowm issues 
+
+- U130 is a VREG SOT23_6D Switch 3V 5.5V AP22615AWU-7 Active High Adjustable OC & Backdrive protection & UL certificate	 Manufacture Part Number AP22615AWU-7 Company	- Diodes Incorporated
+
+
+- U513 is a IC CONTROLLER USB CYPD4226-40LQXIT QFN40		Manufacturer Part Number- CYPD4226-40LQXIT
+Manufacturer - 	Infineon Technologies North America Corp.
+
+- U140 is a VREG LINEAR SOIC8 Low Drop Out 0.2V 3.3V 3.3V 5% % LM9036MX-3.3/NOPB
+Manufacturer part number- LM9036MX-3.3/NOPB
+Manufacturer -	Texas Instruments, Inc.
