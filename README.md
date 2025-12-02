@@ -30,7 +30,7 @@ This archive contains comprehensive hardware design documentation and files for 
 - **Database**: ValorODB database
 
 
-## Currently knowm issues 
+## Currently known IC issues 
 
 - U130 is a VREG SOT23_6D Switch 3V 5.5V AP22615AWU-7 Active High Adjustable OC & Backdrive protection & UL certificate	 Manufacture Part Number AP22615AWU-7 Company	- Diodes Incorporated
 
